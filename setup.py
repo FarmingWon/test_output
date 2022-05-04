@@ -8,7 +8,7 @@ setuptools.setup(
   author = 'FarmingWon',
   auth_email = 'thsdnjst#@naver.com',
   url = 'https://github.com/FarmingWon/test_output/',
-#   download_url = 'https://github.com/FarmingWon/test_output.git',
+   download_url = 'https://github.com/FarmingWon/test_output/releases/tag/v1.0.0',
   install_requires = ['pytest'],
   long_description = 'oss-dev output text ex',
   long_description_content_type = 'text/markdown',
